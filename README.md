@@ -1,5 +1,5 @@
-# A website 
+# A Website using Python
 ## Technology used:
-1. Python framework Django
+1. Django
 2. HTML
 3. CSS
